@@ -1,0 +1,38 @@
+---
+title: "PROJECT TRIAL"
+author: "Victor Nyabuti Ong'era"
+date: "2022-11-07"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## **Instructions**
+
+1.  Download climate scenario from the CMIP6 project [here](https://cds.climate.copernicus.eu/#!/home)
+
+2.  Select the data at monthly resolution
+
+3.  Download both the SSP1 1.9 and SSP5 8.5 scenario It is suggested to perfom one download for the
+
+4.  first scenario and one for the second one
+
+5.  Select near surface air temperature;
+
+6.  Select the EC Earth3(Europe) model
+
+7.  Select the periods 2015 2049 and 2050 2099;
+
+8.  Select all the months
+
+9.  Select the region that you prefer . An area could be from 12 to 30 for longitude and from 34.4 to 72
+
+10. Read the data, extract them
+
+11. Perform all the analysis of Exercitation 2;
+
+12. Calculate the trend for each grid point and plot them
+
+13. Perform all the analysis that you want
